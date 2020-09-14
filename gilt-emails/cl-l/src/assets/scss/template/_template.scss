@@ -1,0 +1,64 @@
+//HTML Styling
+
+html {
+    background: white !important;
+}
+
+// Body Styling
+table.body {
+    background-color: white !important;
+}
+
+//Header Styling
+
+img#header-logo.float-center {
+    width: 150px;
+}
+
+th.menu-item {
+    a {
+        font-family: Helvetica,Arial,sans-serif;
+        font-size: 12px;
+        color: #797979 !important;
+        text-transform: uppercase;
+    }
+}
+
+//Body Styling
+
+th.cl-men-shoes.small-12.large-12.columns.first.last {
+    p.text-center {
+        a {
+            color: #242424;
+            text-decoration: none;
+        }
+    }
+}
+
+th.beauty-column.small-12.large-12.columns.first.last {
+    a {
+        img {
+            width: 748px;
+        }
+    }
+}
+
+//Footer Styling
+
+hr {
+    width: 100%;
+}
+
+img.socials-logo {
+    width: 36px;
+}
+
+img#apple-logo {
+    width: 102px;
+    height: 36px;
+}
+
+img#google-logo {
+    width: 92px;
+    height: 36px;
+}
